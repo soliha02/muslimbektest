@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 1440px;
+    margin: 0 auto ;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:  56px 210px;
+}
+
+ul{
+    display: flex;
+    gap: 50px;
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: gray;
+    transition: 0.5s;
+}
+a:hover{
+    color: black;
+}
+.section-one{
+    display: flex;
+    justify-content: space-between;
+    padding:  56px 210px;
+}
+.image{
+    width: 41px;
+    height: 41px;
+}
+.img{
+    width: 609px;
+    height: 532px;
+}
+h1{
+    color: black;
+    text-align: center;
+}
+.paragraph{
+    margin-left: 450px;
+    margin-top: 60px;
+    width: 600px;
+    text-align: center;
+}
+h2{
+    padding-top: 10px;
+}
+.divali{
+    margin-left: 250px;
+    margin-top: 100px;
+}
+.peragraf{
+    padding-top: 15px;
+    text-align: left;
+    width: 250px;
+}
+.duv{
+    width: 110px;
+    height: 110px;
+}
+.papa{
+    padding-top: 15px;
+    text-align: left;
+    width: 250px;
+    
+}
+.dev{
+    margin-left: 170px;
+    margin-top: 80px;
+}
+.tadiv{
+    display: flex;
+}
+.dav{
+    margin-left: 170px;
+    margin-top: 80px;
+}
+.popecha{
+    padding-top: 15px;
+    text-align: left;
+    width: 250px;
+}
+.botinok{
+    background-color: #67C3F3;
+    width: 1600px;
+    height: 325px;
+}
+
+.puska{
+    text-align: left;
+    padding-top: 10px;
+    width: 300px;
+}
+.imugan{
+    width: 41px;
+    height: 41px;
+    
+}
+.imagune{
+    padding-top: 110px;
+    padding-left: 170px;
+   
+}
+.ol{
+    list-style: none;
+    padding-left: 700px;
+    
+}
+.olma{
+    list-style: none;
+    padding-left: 1000px;
+    
+}
